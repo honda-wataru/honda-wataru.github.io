@@ -41,5 +41,8 @@
 
 - [**話すアバター、無限の可能性！プレゼンター動画が変革する会議のかたち！**](https://www.vareal.co.jp/column/ai_avatar)  
   CanvaのAIアバター会話機能を活用した、プレゼンター動画の作成方法。
+  
+- [**ChatGPTだけじゃない！OpenAI Assistantsの知られざる機能と使い方**](https://www.vareal.co.jp/column/11968)  
+  OpenAIの対話型AI「Assistants」を活用した5つのユースケース。
 
 --- 
