@@ -35,12 +35,12 @@
 <img src="https://github.com/user-attachments/assets/1cba6a0b-6195-41a1-b3e7-8a37a93d6831" alt="AI-900 - Microsoft Azure AI Skills Challenge | November 2024" style="width: 14%; height: auto;"/> 
 
 ## Blog Articles 📚
-- [**AI技術とは何か？(後編) ― その本質と未来**]()
+- [**AI技術とは何か？(後編) ― その本質と未来**]()  
   執筆中。
 
-- [**AI技術とは何か？(前編) ― 計算による未来予知の始まりとAIの誕生**](https://www.vareal.co.jp/column/ai-history1)
+- [**AI技術とは何か？(前編) ― 計算による未来予知の始まりとAIの誕生**](https://www.vareal.co.jp/column/ai-history1)  
   AIの進化を3つのブームに分けて解説し、その核心となるデータ変換能力を掘り下げる。
-
+  
 - [**MNISTを使った文字識別とOCR技術の最前線！**](https://www.vareal.co.jp/column/mnist-ocr)  
   MNISTデータセットを使った手書き文字認識と、最新OCR技術の応用事例。
 
