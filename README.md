@@ -20,6 +20,7 @@
 - AWS
 - Azure
 - Google Colab
+- Google Earth Engine
 - JupyterLab
 
 ### Others
