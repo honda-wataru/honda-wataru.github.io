@@ -4,6 +4,7 @@
 ### Language
 - Python
 - JavaScript
+- C#
 - PHP
 
 ### Framework
@@ -37,8 +38,8 @@
 <img src="https://github.com/user-attachments/assets/1cba6a0b-6195-41a1-b3e7-8a37a93d6831" alt="AI-900 - Microsoft Azure AI Skills Challenge | November 2024" style="width: 14%; height: auto;"/> 
 
 ## Blog Articles 📚
-- [**リモートセンシングで地球を解析！Google Earth Engine でできること**]()  
-  福岡県宇宙ビジネス研究会の「衛星データを活用したビジネス創出ワークショップ（基礎編）」で学んだ衛星データの基本やビジュアル化手法を紹介 (執筆中)
+- [**リモートセンシングで地球を解析！Google Earth Engine でできること**](https://www.vareal.co.jp/column/remote-sensing)  
+  衛星データの仕組みや活用事例、Google Earth Engineによるデータ分析手法など。
 
 - [**AI技術とは何か？(後編) ― その本質と未来**](https://www.vareal.co.jp/news/ai-history2)  
   人工ニューロンの仕組みやAI技術の応用例、チャットボットやRAGも解説。
